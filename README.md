@@ -1,5 +1,21 @@
 # CCC aka Cappie in Commie County aka Chaos in Communist City
 
+## Rules
+
+### Everyone
+
+- Don't break or place blocks (except for Shulker Boxes)
+- Don't leave the map
+- Don't look in other players' Shulker Boxes
+- You are allowed to loot graves
+- Basic TTT rules
+
+### Spectator
+
+- Announce when your invisibility has ran out
+- Don't block arrows or melee attacks intentionally
+
+
 ## Prerequisites
 
 - Store all items in one of the SSNIDS or SSTIDS
@@ -52,34 +68,3 @@
 3. Click the "Reset Doors" button
 4. Go to any spawn position and now you can spectate the match
 5. When your potion has ran out, the game ends.
-
-
-## Rules
-
-### Everyone
-
-- Don't break or place blocks (except for Shulker Boxes)
-- Don't leave the map
-- Don't look in other players' Shulker Boxes
-- You are allowed to loot graves
-- Basic TTT rules
-
-### Spectator
-
-- Announce when your invisibility has ran out
-- Don't block arrows or melee attacks intentionally
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
