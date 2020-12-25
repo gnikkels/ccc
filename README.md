@@ -20,9 +20,9 @@
 
 - Store all items in one of the SSNIDS or SSTIDS
 - Set your respawn point at the ORRS
-- Wait for all players at the campfire
 - Turn off your game chat (Options -> Chat Settings... -> Chat: Hidden)
 - Turn off your minimap if you have one (Y -> Minimap: Off)
+- Wait for all players at the campfire
 
 
 ## Starting
