@@ -40,7 +40,7 @@
 
 1. Turn back on your game chat (Options -> Chat Settings... -> Chat: Shown)
 2. Talk to your fellow cappie
-3. (Optional) You can already buy some items if you want
+3. (Optional) Buy some items
 
 ### Detective
 
