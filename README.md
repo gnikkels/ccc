@@ -46,7 +46,7 @@
 
 1. Equip your Tweed Helmet
 2. Notify everyone on voice that you are the detective
-3. (Optional) You can already buy some items if you want
+3. (Optional) Buy some items
 
 
 ## Gameplay Loop
