@@ -67,4 +67,4 @@
 2. Take a Potion of Invisibility out of the Spectator Shulker Box at the respawn tunnel
 3. Click the "Reset Doors" button
 4. Go to any spawn position and now you can spectate the match
-5. When your potion has ran out, the game ends.
+5. When your potion has ran out, the game ends
