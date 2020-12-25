@@ -1,4 +1,4 @@
-# CCC aka Cappie in Commie County aka Chaos in Communist City aka Cu Clux Clan
+# CCC aka Cappie in Commie County aka Chaos in Communist City
 
 ## Prerequisites
 
